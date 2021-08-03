@@ -1,6 +1,8 @@
 ### Olá! Me chamo Moyses Junior
 
-- 👨🏾‍💻 Eu estudo Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá
+- 👨🏾‍💻 Estudando: Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá;
+- 🌱 Aprendendo: Java, JavaScript e C;
+- 💻 Trabalho: Estou aberto para oportunidades de trabalho.
 
 <div>
   
