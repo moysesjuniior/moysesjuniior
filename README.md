@@ -1,8 +1,8 @@
-### Olá! Me chamo Moyses Junior
+### Hello! I'm Moyses Junior
 ##
 
-- 👨🏾‍💻 Estudando: Engenharia de Software na Universidade Estácio de Sá;
-- 🌱 Aprendendo: Java, JavaScript e C;
+- 👨🏾‍💻 Studying: Software Engineering at Universidade Estácio de Sá;
+- 🌱 Learning: Java, JavaScript e C;
 
 <div>
   
